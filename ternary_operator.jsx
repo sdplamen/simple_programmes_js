@@ -23,7 +23,7 @@ ReactDOM.render(
  <App />,
  document.getElementById("root")
 );
-// 
+// inline conditiona
 import React from "react";
 import ReactDOM from "react-dom";
 
